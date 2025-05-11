@@ -1,0 +1,1 @@
+Um programa que peça dois números inteiros positivos, m e n, e calcula o mínimo múltiplo comum (MMC) e o máximo divisor comum (MDC) desses números. O programa deverá mostrar as etapas do MMC e os resultados. Cálculo do MDC deverá ocorrer aproveitando as etapas do cálculo do MMC.
