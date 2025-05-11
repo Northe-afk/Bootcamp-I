@@ -1,0 +1,1 @@
+Um programa que converta a temperatura de graus Celsius para graus Farenheit ou vice-versa. O programa deverá perguntar se a temperatura de entrada está em Celsius ou Farenheit e mostrar a temperatura digitada convertida para a outra unidade.
