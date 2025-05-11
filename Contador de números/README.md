@@ -1,1 +1,1 @@
-
+Um programa que peça números inteiros ao usuário e conta quantos números positivos e quantos números negativos foram digitados. O programa deverá parar quando o número zero for digitado, mostrando na tela os resultados. Além disso, o programa deverá informar se há mais números positivos, mais números negativos ou se há a mesma quantidade.
